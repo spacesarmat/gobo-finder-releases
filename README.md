@@ -8,13 +8,30 @@ This repository contains release builds only. The source code is not published.
 
 ## Contents
 
-1. [Download](#download)
-2. [Installation](#installation)
-3. [Phone app](#phone-app)
-4. [Updates and privacy](#updates-and-privacy)
-5. [Support](#support)
-6. [Author](#author)
-7. [License](#license)
+1. [Screenshots](#screenshots)
+2. [Download](#download)
+3. [Installation](#installation)
+4. [Phone app](#phone-app)
+5. [Updates and privacy](#updates-and-privacy)
+6. [Support](#support)
+7. [Author](#author)
+8. [License](#license)
+
+## Screenshots
+
+![Search results on the computer](docs/screenshots/desktop-results-en.png)
+
+| Overlay | Difference |
+|---|---|
+| <img src="docs/screenshots/desktop-overlay.png" alt="Overlay mode"> | <img src="docs/screenshots/desktop-difference.png" alt="Difference mode"> |
+
+| Results | Swipe to mark | Comparison | History |
+|---|---|---|---|
+| <img src="docs/screenshots/phone-results-en.png" width="200" alt="Results"> | <img src="docs/screenshots/phone-swipe.png" width="200" alt="Swipe to mark"> | <img src="docs/screenshots/phone-compare.png" width="200" alt="Comparison"> | <img src="docs/screenshots/phone-history.png" width="200" alt="History"> |
+
+The Phone window on the computer:
+
+<img src="docs/screenshots/desktop-phone.png" width="420" alt="Phone window">
 
 ## Download
 
@@ -96,13 +113,30 @@ Gobo Finder определяет гобо по фотографии, выпол�
 
 ## Содержание
 
-1. [Загрузка](#загрузка)
-2. [Установка](#установка)
-3. [Приложение для телефона](#приложение-для-телефона)
-4. [Обновления и конфиденциальность](#обновления-и-конфиденциальность)
-5. [Поддержка](#поддержка)
-6. [Автор](#автор)
-7. [Лицензия](#лицензия)
+1. [Скриншоты](#скриншоты)
+2. [Загрузка](#загрузка)
+3. [Установка](#установка)
+4. [Приложение для телефона](#приложение-для-телефона)
+5. [Обновления и конфиденциальность](#обновления-и-конфиденциальность)
+6. [Поддержка](#поддержка)
+7. [Автор](#автор)
+8. [Лицензия](#лицензия)
+
+## Скриншоты
+
+![Результаты поиска на компьютере](docs/screenshots/desktop-results.png)
+
+| Наложение | Разница |
+|---|---|
+| <img src="docs/screenshots/desktop-overlay.png" alt="Режим «Наложение»"> | <img src="docs/screenshots/desktop-difference.png" alt="Режим «Разница»"> |
+
+| Результаты | Отметка свайпом | Сравнение | История |
+|---|---|---|---|
+| <img src="docs/screenshots/phone-results.png" width="200" alt="Результаты"> | <img src="docs/screenshots/phone-swipe.png" width="200" alt="Отметка свайпом"> | <img src="docs/screenshots/phone-compare.png" width="200" alt="Сравнение"> | <img src="docs/screenshots/phone-history.png" width="200" alt="История"> |
+
+Окно «Телефон» на компьютере:
+
+<img src="docs/screenshots/desktop-phone.png" width="420" alt="Окно «Телефон»">
 
 ## Загрузка
 
