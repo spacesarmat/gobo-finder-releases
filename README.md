@@ -1,6 +1,6 @@
 # Gobo Finder
 
-**English** · [Русский](#gobo-finder--русский)
+**English** · [Русский](#gobo-finder---русский)
 
 Gobo Finder identifies a gobo from a photo by searching the gobo libraries of lighting consoles. It runs on Windows and macOS; the Android app sends photos to the computer and shows the results on the phone.
 
@@ -99,7 +99,7 @@ Report problems in [Issues](https://github.com/spacesarmat/gobo-finder-releases/
 
 | | |
 |---|---|
-| Author | Andy Bum — [Telegram @Andy_bum](https://t.me/Andy_bum) |
+| Author | Andy Bum - [Telegram @Andy_bum](https://t.me/Andy_bum) |
 | Support the project | [Boosty](https://boosty.to/djmaker/purchase/4106293) |
 
 ## License
@@ -109,7 +109,7 @@ Third-party components included in the builds keep their own licenses.
 
 ---
 
-# Gobo Finder — Русский
+# Gobo Finder - Русский
 
 [English](#gobo-finder) · **Русский**
 
@@ -161,7 +161,7 @@ Gobo Finder определяет гобо по фотографии, выпол�
 | macOS, Intel | `GoboFinder-<версия>-macos-x64.zip` |
 | Android | `GoboFinder-<версия>-android.apk` |
 
-Выпуски с пометкой *Pre-release* — тестовые сборки.
+Выпуски с пометкой *Pre-release* - тестовые сборки.
 
 ## Установка
 
@@ -210,7 +210,7 @@ Gobo Finder определяет гобо по фотографии, выпол�
 
 | | |
 |---|---|
-| Автор | Andy Bum — [Telegram @Andy_bum](https://t.me/Andy_bum) |
+| Автор | Andy Bum - [Telegram @Andy_bum](https://t.me/Andy_bum) |
 | Поддержать проект | [Boosty](https://boosty.to/djmaker/purchase/4106293) |
 
 ## Лицензия
