@@ -13,6 +13,7 @@ This repository contains release builds only. The source code is not published.
 3. [Phone app](#phone-app)
 4. [Updates and privacy](#updates-and-privacy)
 5. [Support](#support)
+6. [Author](#author)
 
 ## Download
 
@@ -70,6 +71,13 @@ The phone and the computer must be on the same Wi-Fi network and run the same ve
 
 Report problems in [Issues](https://github.com/spacesarmat/gobo-finder-releases/issues). Include the program version (**Help → About**), the operating system and the steps that lead to the problem.
 
+## Author
+
+| | |
+|---|---|
+| Author | Andy Bum — [Telegram @Andy_bum](https://t.me/Andy_bum) |
+| Support the project | [Boosty](https://boosty.to/djmaker/purchase/4106293) |
+
 ---
 
 # Gobo Finder — Русский
@@ -87,6 +95,7 @@ Gobo Finder определяет гобо по фотографии, выпол�
 3. [Приложение для телефона](#приложение-для-телефона)
 4. [Обновления и конфиденциальность](#обновления-и-конфиденциальность)
 5. [Поддержка](#поддержка)
+6. [Автор](#автор)
 
 ## Загрузка
 
@@ -143,3 +152,10 @@ Gobo Finder определяет гобо по фотографии, выпол�
 ## Поддержка
 
 Сообщайте о проблемах в [Issues](https://github.com/spacesarmat/gobo-finder-releases/issues). Укажите версию программы (**Справка → О программе**), операционную систему и шаги, которые приводят к проблеме.
+
+## Автор
+
+| | |
+|---|---|
+| Автор | Andy Bum — [Telegram @Andy_bum](https://t.me/Andy_bum) |
+| Поддержать проект | [Boosty](https://boosty.to/djmaker/purchase/4106293) |
