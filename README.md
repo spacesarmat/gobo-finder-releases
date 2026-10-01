@@ -14,6 +14,7 @@ This repository contains release builds only. The source code is not published.
 4. [Updates and privacy](#updates-and-privacy)
 5. [Support](#support)
 6. [Author](#author)
+7. [License](#license)
 
 ## Download
 
@@ -78,6 +79,11 @@ Report problems in [Issues](https://github.com/spacesarmat/gobo-finder-releases/
 | Author | Andy Bum — [Telegram @Andy_bum](https://t.me/Andy_bum) |
 | Support the project | [Boosty](https://boosty.to/djmaker/purchase/4106293) |
 
+## License
+
+Gobo Finder is distributed under the [MIT License](LICENSE). Copyright (c) 2026 Andy Bum.
+Third-party components included in the builds keep their own licenses.
+
 ---
 
 # Gobo Finder — Русский
@@ -96,6 +102,7 @@ Gobo Finder определяет гобо по фотографии, выпол�
 4. [Обновления и конфиденциальность](#обновления-и-конфиденциальность)
 5. [Поддержка](#поддержка)
 6. [Автор](#автор)
+7. [Лицензия](#лицензия)
 
 ## Загрузка
 
@@ -159,3 +166,8 @@ Gobo Finder определяет гобо по фотографии, выпол�
 |---|---|
 | Автор | Andy Bum — [Telegram @Andy_bum](https://t.me/Andy_bum) |
 | Поддержать проект | [Boosty](https://boosty.to/djmaker/purchase/4106293) |
+
+## Лицензия
+
+Gobo Finder распространяется по [лицензии MIT](LICENSE). Copyright (c) 2026 Andy Bum.
+Сторонние компоненты, входящие в сборки, распространяются по своим лицензиям.
