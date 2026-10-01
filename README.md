@@ -19,19 +19,25 @@ This repository contains release builds only. The source code is not published.
 
 ## Screenshots
 
-![Search results on the computer](docs/screenshots/desktop-results-en.png)
+<p align="center"><a href="docs/screenshots/desktop-results-en.png"><img src="docs/screenshots/desktop-results-en.png" width="720" alt="Search results on the computer"></a></p>
+
+<details>
+<summary><b>More screenshots</b></summary>
+<br>
 
 | Overlay | Difference |
 |---|---|
-| <img src="docs/screenshots/desktop-overlay.png" alt="Overlay mode"> | <img src="docs/screenshots/desktop-difference.png" alt="Difference mode"> |
+| <a href="docs/screenshots/desktop-overlay.png"><img src="docs/screenshots/desktop-overlay.png" width="420" alt="Overlay"></a> | <a href="docs/screenshots/desktop-difference.png"><img src="docs/screenshots/desktop-difference.png" width="420" alt="Difference"></a> |
 
 | Results | Swipe to mark | Comparison | History |
 |---|---|---|---|
-| <img src="docs/screenshots/phone-results-en.png" width="200" alt="Results"> | <img src="docs/screenshots/phone-swipe.png" width="200" alt="Swipe to mark"> | <img src="docs/screenshots/phone-compare.png" width="200" alt="Comparison"> | <img src="docs/screenshots/phone-history.png" width="200" alt="History"> |
+| <a href="docs/screenshots/phone-results-en.png"><img src="docs/screenshots/phone-results-en.png" width="190" alt="Results"></a> | <a href="docs/screenshots/phone-swipe.png"><img src="docs/screenshots/phone-swipe.png" width="190" alt="Swipe to mark"></a> | <a href="docs/screenshots/phone-compare.png"><img src="docs/screenshots/phone-compare.png" width="190" alt="Comparison"></a> | <a href="docs/screenshots/phone-history.png"><img src="docs/screenshots/phone-history.png" width="190" alt="History"></a> |
 
-The Phone window on the computer:
+| Phone window on the computer |
+|---|
+| <a href="docs/screenshots/desktop-phone.png"><img src="docs/screenshots/desktop-phone.png" width="420" alt="Phone window on the computer"></a> |
 
-<img src="docs/screenshots/desktop-phone.png" width="420" alt="Phone window">
+</details>
 
 ## Download
 
@@ -124,19 +130,25 @@ Gobo Finder определяет гобо по фотографии, выпол�
 
 ## Скриншоты
 
-![Результаты поиска на компьютере](docs/screenshots/desktop-results.png)
+<p align="center"><a href="docs/screenshots/desktop-results.png"><img src="docs/screenshots/desktop-results.png" width="720" alt="Результаты поиска на компьютере"></a></p>
+
+<details>
+<summary><b>Ещё скриншоты</b></summary>
+<br>
 
 | Наложение | Разница |
 |---|---|
-| <img src="docs/screenshots/desktop-overlay.png" alt="Режим «Наложение»"> | <img src="docs/screenshots/desktop-difference.png" alt="Режим «Разница»"> |
+| <a href="docs/screenshots/desktop-overlay.png"><img src="docs/screenshots/desktop-overlay.png" width="420" alt="Наложение"></a> | <a href="docs/screenshots/desktop-difference.png"><img src="docs/screenshots/desktop-difference.png" width="420" alt="Разница"></a> |
 
 | Результаты | Отметка свайпом | Сравнение | История |
 |---|---|---|---|
-| <img src="docs/screenshots/phone-results.png" width="200" alt="Результаты"> | <img src="docs/screenshots/phone-swipe.png" width="200" alt="Отметка свайпом"> | <img src="docs/screenshots/phone-compare.png" width="200" alt="Сравнение"> | <img src="docs/screenshots/phone-history.png" width="200" alt="История"> |
+| <a href="docs/screenshots/phone-results.png"><img src="docs/screenshots/phone-results.png" width="190" alt="Результаты"></a> | <a href="docs/screenshots/phone-swipe.png"><img src="docs/screenshots/phone-swipe.png" width="190" alt="Отметка свайпом"></a> | <a href="docs/screenshots/phone-compare.png"><img src="docs/screenshots/phone-compare.png" width="190" alt="Сравнение"></a> | <a href="docs/screenshots/phone-history.png"><img src="docs/screenshots/phone-history.png" width="190" alt="История"></a> |
 
-Окно «Телефон» на компьютере:
+| Окно «Телефон» на компьютере |
+|---|
+| <a href="docs/screenshots/desktop-phone.png"><img src="docs/screenshots/desktop-phone.png" width="420" alt="Окно «Телефон» на компьютере"></a> |
 
-<img src="docs/screenshots/desktop-phone.png" width="420" alt="Окно «Телефон»">
+</details>
 
 ## Загрузка
 
