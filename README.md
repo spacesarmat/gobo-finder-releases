@@ -43,12 +43,12 @@ This repository contains release builds only. The source code is not published.
 
 All files are attached to each release: **[Latest release](https://github.com/spacesarmat/gobo-finder-releases/releases/latest)**.
 
-| Platform | File |
-|---|---|
-| Windows, x64 | `GoboFinder-<version>-windows-x64.zip` |
-| macOS, Apple Silicon (M1 and later) | `GoboFinder-<version>-macos-arm64.zip` |
-| macOS, Intel | `GoboFinder-<version>-macos-x64.zip` |
-| Android | `GoboFinder-<version>-android.apk` |
+| Platform | Installer (recommended) | Portable |
+|---|---|---|
+| Windows, x64 | `GoboFinder-<version>-windows-x64-setup.exe` | `GoboFinder-<version>-windows-x64.zip` |
+| macOS, Apple Silicon (M1 and later) | `GoboFinder-<version>-macos-arm64.dmg` | `GoboFinder-<version>-macos-arm64.zip` |
+| macOS, Intel | `GoboFinder-<version>-macos-x64.dmg` | `GoboFinder-<version>-macos-x64.zip` |
+| Android | `GoboFinder-<version>-android.apk` | |
 
 Releases marked *Pre-release* are test builds.
 
@@ -56,13 +56,14 @@ Releases marked *Pre-release* are test builds.
 
 ### Windows
 
-1. Extract the archive to any folder.
-2. Run `GoboFinder\GoboFinder.exe`.
-3. The build is not signed. If Windows SmartScreen shows a warning, select **More info → Run anyway**.
+1. Run `GoboFinder-<version>-windows-x64-setup.exe`. It installs for the current user without administrator rights and adds a Start menu shortcut (a desktop shortcut is optional).
+2. The installer is not signed. If Windows SmartScreen shows a warning, select **More info → Run anyway**.
+3. Portable version: extract the `.zip` to any folder and run `GoboFinder\GoboFinder.exe`.
+4. Uninstall in **Settings → Apps**. Your index and settings are kept.
 
 ### macOS
 
-1. Extract the archive and move `GoboFinder.app` to **Applications**.
+1. Open the `.dmg` and drag Gobo Finder onto **Applications** (or extract the `.zip` and move `GoboFinder.app` there).
 2. The build is not signed with an Apple Developer ID. On first launch, right-click the app and select **Open**, then confirm **Open**.
 3. On macOS 15 and later: try to open the app once, then go to **System Settings → Privacy & Security** and select **Open Anyway**.
 
@@ -89,6 +90,7 @@ The phone and the computer must be on the same Wi-Fi network and run the same ve
 - The program and the phone app check this repository for a newer version at most once a day.
 - The check sends one request to GitHub with the program version in the User-Agent header. No other data is sent.
 - Automatic checking can be switched off in **Settings**; **Help → Check for updates** checks on request.
+- Installing: on Windows, a copy installed with the installer gets **Install and restart** - the update is downloaded, checked against the SHA-256 published by GitHub and installed in place of the old version. On macOS: **Download and open** (the disk image). Portable Windows copies: **Download**.
 - Test builds are offered only when **Offer beta versions** is switched on.
 
 ## Support
@@ -154,12 +156,12 @@ Gobo Finder определяет гобо по фотографии, выпол�
 
 Все файлы приложены к каждому выпуску: **[Последний выпуск](https://github.com/spacesarmat/gobo-finder-releases/releases/latest)**.
 
-| Система | Файл |
-|---|---|
-| Windows, x64 | `GoboFinder-<версия>-windows-x64.zip` |
-| macOS, Apple Silicon (M1 и новее) | `GoboFinder-<версия>-macos-arm64.zip` |
-| macOS, Intel | `GoboFinder-<версия>-macos-x64.zip` |
-| Android | `GoboFinder-<версия>-android.apk` |
+| Система | Установщик (рекомендуется) | Переносная версия |
+|---|---|---|
+| Windows, x64 | `GoboFinder-<версия>-windows-x64-setup.exe` | `GoboFinder-<версия>-windows-x64.zip` |
+| macOS, Apple Silicon (M1 и новее) | `GoboFinder-<версия>-macos-arm64.dmg` | `GoboFinder-<версия>-macos-arm64.zip` |
+| macOS, Intel | `GoboFinder-<версия>-macos-x64.dmg` | `GoboFinder-<версия>-macos-x64.zip` |
+| Android | `GoboFinder-<версия>-android.apk` | |
 
 Выпуски с пометкой *Pre-release* - тестовые сборки.
 
@@ -167,13 +169,14 @@ Gobo Finder определяет гобо по фотографии, выпол�
 
 ### Windows
 
-1. Распакуйте архив в любую папку.
-2. Запустите `GoboFinder\GoboFinder.exe`.
-3. Сборка не подписана. Если Windows SmartScreen показывает предупреждение, выберите **Подробнее → Выполнить в любом случае**.
+1. Запустите `GoboFinder-<версия>-windows-x64-setup.exe`. Программа устанавливается для текущего пользователя без прав администратора, с ярлыком в меню «Пуск» (ярлык на рабочем столе по желанию).
+2. Установщик не подписан. Если Windows SmartScreen показывает предупреждение, выберите **Подробнее → Выполнить в любом случае**.
+3. Переносная версия: распакуйте `.zip` в любую папку и запустите `GoboFinder\GoboFinder.exe`.
+4. Удаление: **Параметры → Приложения**. Индекс и настройки сохраняются.
 
 ### macOS
 
-1. Распакуйте архив и перенесите `GoboFinder.app` в папку **Программы**.
+1. Откройте `.dmg` и перетащите Gobo Finder в папку **Программы** (или распакуйте `.zip` и перенесите туда `GoboFinder.app`).
 2. Сборка не подписана Apple Developer ID. При первом запуске щёлкните программу правой кнопкой, выберите **Открыть** и подтвердите **Открыть**.
 3. В macOS 15 и новее: попробуйте открыть программу один раз, затем откройте **Системные настройки → Конфиденциальность и безопасность** и выберите **Всё равно открыть**.
 
@@ -200,6 +203,7 @@ Gobo Finder определяет гобо по фотографии, выпол�
 - Программа и приложение для телефона проверяют этот репозиторий на наличие новой версии не чаще раза в сутки.
 - Проверка отправляет один запрос к GitHub с номером версии программы в заголовке User-Agent. Другие данные не передаются.
 - Автоматическую проверку можно отключить в **Настройках**; **Справка → Проверить обновления** проверяет по запросу.
+- Установка: на Windows у программы, установленной установщиком, есть кнопка **Установить и перезапустить** - обновление скачивается, сверяется по SHA-256 от GitHub и ставится вместо старой версии. На macOS - **Скачать и открыть** (образ диска). Переносная версия Windows - **Скачать**.
 - Тестовые сборки предлагаются только при включённом параметре **Предлагать бета-версии**.
 
 ## Поддержка
